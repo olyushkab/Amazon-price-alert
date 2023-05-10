@@ -39,6 +39,3 @@ if price_without_currency < TARGET_PRICE:
 
 
 
-
-#used http request to get the product price
-#used smtp to send email alert when price goes below profitability threshold
